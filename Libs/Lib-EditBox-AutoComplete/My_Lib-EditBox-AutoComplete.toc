@@ -1,0 +1,10 @@
+## Interface: 70300
+## Version: 1
+## Title: Library: EditBox AutoComplete
+## Notes: Add custom autocomplete suggestions to any editbox.
+## Author: Strucker
+## Credits: Strucker
+## X-Category: Library
+## X-License: Public Domain	
+
+My_Lib-EditBox-AutoComplete.xml
