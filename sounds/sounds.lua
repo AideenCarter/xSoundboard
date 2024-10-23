@@ -1,9 +1,10 @@
 local _, name_space = ...
 name_space.sound_dict = { }
-name_space.sound_dict["legtab"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\fred_halondrus.ogg", duration = 3, group = "ready"}
-name_space.sound_dict["heals"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\heals.ogg", duration = 4, group = "ready"}
-name_space.sound_dict["fliege"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\matze_fliege.ogg", duration = 14, group = "ready"}
-name_space.sound_dict["versprecher"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\matze_versprecher.ogg", duration = 8, group = "ready"}
+name_space.sound_dict["legtab"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_halondrus.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["heals"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_heals.ogg", duration = 4, group = "ready"}
+name_space.sound_dict["fliege"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_fliege.ogg", duration = 14, group = "ready"}
+name_space.sound_dict["versprecher"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_versprecher.ogg", duration = 8, group = "ready"}
+name_space.sound_dict["wer-trollt-hier"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_wer-trollt-hier.ogg", duration = 3, group = "ready"}
 name_space.sound_dict["abfall"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\aron_abfall.ogg", duration = 3, group = "aron"}
 name_space.sound_dict["fuck-me-not-up"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\aron_fuck-me-not-up.ogg", duration = 2, group = "aron"}
 name_space.sound_dict["in-die-fresse"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\aron_in-die-fresse.ogg", duration = 2, group = "aron"}

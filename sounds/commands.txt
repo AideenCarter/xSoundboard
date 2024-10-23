@@ -42,3 +42,4 @@
 /sb heals
 /sb fliege
 /sb versprecher
+/sb wer-trollt-hier
