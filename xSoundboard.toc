@@ -1,4 +1,4 @@
-## Interface: 100100
+## Interface: 110500
 ## Title: Soundboard
 ## Author: pyro / Aideen
 ## Version: 1.1.1

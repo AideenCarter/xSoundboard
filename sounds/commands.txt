@@ -43,3 +43,5 @@
 /sb fliege
 /sb versprecher
 /sb wer-trollt-hier
+/sb funkcheck
+/sb scheiße
