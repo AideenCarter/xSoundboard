@@ -1,5 +1,9 @@
 local _, name_space = ...
 name_space.sound_dict = { }
+name_space.sound_dict["legtab"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\fred_halondrus.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["heals"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\heals.ogg", duration = 4, group = "ready"}
+name_space.sound_dict["fliege"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\matze_fliege.ogg", duration = 14, group = "ready"}
+name_space.sound_dict["versprecher"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\matze_versprecher.ogg", duration = 8, group = "ready"}
 name_space.sound_dict["abfall"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\aron_abfall.ogg", duration = 3, group = "aron"}
 name_space.sound_dict["fuck-me-not-up"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\aron_fuck-me-not-up.ogg", duration = 2, group = "aron"}
 name_space.sound_dict["in-die-fresse"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\aron_in-die-fresse.ogg", duration = 2, group = "aron"}
@@ -42,8 +46,5 @@ name_space.sound_dict["rezz-ihn"] = {path = "Interface\\Addons\\xSoundboard\\sou
 name_space.sound_dict["schweine"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\nephis_schweine.ogg", duration = 2, group = "nephis"}
 name_space.sound_dict["versteht-es-nicht"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\nephis_versteht-es-nicht.ogg", duration = 7, group = "nephis"}
 name_space.sound_dict["mossad"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\philip_mossad.ogg", duration = 5, group = "philip"}
-name_space.sound_dict["legtab"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\fred_halondrus.ogg", duration = 3, group = "ready"}
-name_space.sound_dict["heals"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\heals.ogg", duration = 4, group = "ready"}
-name_space.sound_dict["fliege"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\matze_fliege.ogg", duration = 14, group = "ready"}
-name_space.sound_dict["versprecher"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\matze_versprecher.ogg", duration = 8, group = "ready"}
+
 
