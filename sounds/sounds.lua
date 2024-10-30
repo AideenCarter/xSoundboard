@@ -1,17 +1,17 @@
 local _, name_space = ...
 name_space.sound_dict = { }
-name_space.sound_dict["legtab"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_halondrus.ogg", duration = 3, group = "ready"}
-name_space.sound_dict["aideen1ei"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_aideen1ei.ogg", duration = 3, group = "ready"}
-name_space.sound_dict["fma"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_fma.ogg", duration = 3, group = "ready"}
-name_space.sound_dict["reinfeiern"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_reinfeiern.ogg", duration = 3, group = "ready"}
-name_space.sound_dict["downyi"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_downyi.ogg", duration = 3, group = "ready"}
-name_space.sound_dict["danny"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_danny.ogg", duration = 3, group = "ready"}
-name_space.sound_dict["dertagistgelaufen"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_dertagistgelaufen.ogg", duration = 3, group = "ready"}
-name_space.sound_dict["23uhr"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_23uhr.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["legtab"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_halondrus.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["aideen1ei"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_aideen1ei.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["fma"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_fma.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["reinfeiern"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_reinfeiern.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["downyi"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_downyi.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["danny"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_danny.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["dertagistgelaufen"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_dertagistgelaufen.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["23uhr"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_23uhr.ogg", duration = 5, group = "ready"}
 name_space.sound_dict["einfachruhig"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_einfachruhig.ogg", duration = 5, group = "ready"}
 name_space.sound_dict["svenlegtab"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_svenlegab.ogg", duration = 5, group = "ready"}
-name_space.sound_dict["durchkommen"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_durchkommen.ogg", duration = 3, group = "ready"}
-name_space.sound_dict["loser"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_loser.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["durchkommen"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_durchkommen.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["loser"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_loser.ogg", duration = 5, group = "ready"}
 name_space.sound_dict["duhuhrensohn"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_duhuhrensohn.ogg", duration = 4, group = "ready"}
 name_space.sound_dict["mspielen"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_mspielen.ogg", duration = 4, group = "ready"}
 name_space.sound_dict["schaffdasnicht"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_schaffdasnicht.ogg", duration = 4, group = "ready"}
