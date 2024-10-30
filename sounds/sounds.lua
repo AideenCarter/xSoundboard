@@ -17,7 +17,7 @@ name_space.sound_dict["mspielen"] = {path = "Interface\\Addons\\xSoundboard\\sou
 name_space.sound_dict["schaffdasnicht"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_schaffdasnicht.ogg", duration = 4, group = "ready"}
 name_space.sound_dict["versammeln"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_versammeln.ogg", duration = 4, group = "ready"}
 name_space.sound_dict["fangenwiran"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_fangenwiran.ogg", duration = 4, group = "ready"}
-name_space.sound_dict["tschüssmuckii"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_tschüssmuckii.ogg", duration = 4, group = "ready"}
+name_space.sound_dict["tschuessmuckii"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_tschuessmuckii.ogg", duration = 4, group = "ready"}
 name_space.sound_dict["ohnetrollen"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_ohnetrollen.ogg", duration = 4, group = "ready"}
 name_space.sound_dict["mistgeburt2"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_mistgeburt2.ogg", duration = 4, group = "ready"}
 name_space.sound_dict["peinlichaideen"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_peinlichaideen.ogg", duration = 4, group = "ready"}

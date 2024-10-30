@@ -50,11 +50,11 @@
 /sb mistgeburt2
 /sb peinlichaideen
 /sb ohnetrollen
-/sb tschüssmuckii
+/sb tschuessmuckii
 /sb svenlegab
 /sb loser
 /sb durchkommen
-/sb duhuhrensohn
+/sb duhurensohn
 /sb fangenwiran
 /sb mspielen
 /sb schaffdasnicht
