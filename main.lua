@@ -60,7 +60,7 @@ end
 local function get_cooldown(type)
     local cooldown = 15
     if type == "RAID" then
-        cooldown = 60
+        cooldown = 120
     elseif type == "WHISPER" then
         cooldown = 0
     elseif debug then
