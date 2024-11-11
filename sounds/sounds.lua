@@ -1,6 +1,26 @@
 local _, name_space = ...
 name_space.sound_dict = { }
 name_space.sound_dict["legtab"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_halondrus.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["20Geistigbehinderte"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_20Geistigbehinderte.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["250kGold"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_250kGold.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["BinAmLimit"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_BinAmLimit.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["CooleJungs"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_CooleJungs.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["FelixMurloc"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_FelixMurloc.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["Fred13Euro"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_Fred13Euro.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["FredHS"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_FredHS.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["Gesiteskrank"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_Gesiteskrank.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["Hurensohn"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_Hurensohn.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["istmirzuviel"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_istmirzuviel.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["Kindersoundboard"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_Kindersoundboard.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["LeaHaltDieSchnauze1"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_LeaHaltDieSchnauze1.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["LeaHaltDieSchnauze2"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_LeaHaltDieSchnauze2.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["Lernresistzenz"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_Lernresistzenz.ogg", duration = 15, group = "ready"}
+name_space.sound_dict["Mistgeburten"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_Mistgeburten.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["Pimmelbirne"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_Pimmelbirne.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["Scheppert"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_Scheppert.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["Stuhlkreis"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_Stuhlkreis.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["Touch"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_Touch.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["TygrasMomReinfeiern"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_TygrasMomReinfeiern.ogg", duration = 5, group = "ready"}
 name_space.sound_dict["aideen1ei"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_aideen1ei.ogg", duration = 5, group = "ready"}
 name_space.sound_dict["fma"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_fma.ogg", duration = 5, group = "ready"}
 name_space.sound_dict["reinfeiern"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_reinfeiern.ogg", duration = 5, group = "ready"}
