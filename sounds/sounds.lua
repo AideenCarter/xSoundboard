@@ -16,7 +16,7 @@ name_space.sound_dict["leahaltdieschnauze1"] = {path = "Interface\\Addons\\xSoun
 name_space.sound_dict["leahaltdieschnauze2"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_leahaltdieschnauze2.ogg", duration = 5, group = "ready"}
 name_space.sound_dict["lernresistzenz"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_lernresistzenz.ogg", duration = 15, group = "ready"}
 name_space.sound_dict["mistgeburten"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_mistgeburten.ogg", duration = 5, group = "ready"}
-name_space.sound_dict["mimmelbirne"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_pimmelbirne.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["pimmelbirne"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_pimmelbirne.ogg", duration = 5, group = "ready"}
 name_space.sound_dict["scheppert"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_scheppert.ogg", duration = 5, group = "ready"}
 name_space.sound_dict["stuhlkreis"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_stuhlkreis.ogg", duration = 5, group = "ready"}
 name_space.sound_dict["touch"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_touch.ogg", duration = 5, group = "ready"}
@@ -48,12 +48,11 @@ name_space.sound_dict["versprecher"] = {path = "Interface\\Addons\\xSoundboard\\
 name_space.sound_dict["wer-trollt-hier"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_wer-trollt-hier.ogg", duration = 3, group = "ready"}
 name_space.sound_dict["scheiße"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_scheiße.ogg", duration = 3, group = "ready"}
 name_space.sound_dict["funkcheck"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_funkcheck.ogg", duration = 2, group = "ready"}
-name_space.sound_dict["bus"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\misc_bus.ogg", duration = 3, group = "misc"}
-name_space.sound_dict["immer-die-gleichen"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\nephis_immer-die-gleichen.ogg", duration = 2, group = "nephis"}
-name_space.sound_dict["macht-euch-das-spa"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\nephis_macht-euch-das-spa.ogg", duration = 7, group = "nephis"}
-name_space.sound_dict["piss"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\nephis_piss.ogg", duration = 1, group = "nephis"}
-name_space.sound_dict["reinhalterinio"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\nephis_reinhalterinio.ogg", duration = 2, group = "nephis"}
-
-
-
-
+name_space.sound_dict["dannyfastfurios"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_dannyfastfurios.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["fredhs"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_fredhs.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["afdistdiemitte"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_afdistdiemitte.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["denkfuehrerschein"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_denkfuehrerschein.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["felixanger1"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_felixanger1.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["kopfweh"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_kopfweh.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["sexfelix"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_sexfelix.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["wiederda"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_wiederda.ogg", duration = 3, group = "ready"}
