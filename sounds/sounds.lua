@@ -86,3 +86,15 @@ name_space.sound_dict["wargut"] = {path = "Interface\\Addons\\xSoundboard\\sound
 name_space.sound_dict["wiederda"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_wiederda.ogg", duration = 2, group = "ready"}
 name_space.sound_dict["zimtbrtchen"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_zimtbrtchen.ogg", duration = 4, group = "ready"}
 name_space.sound_dict["zoimuh"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_zoimuh.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["aideenhs"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_aideenhs.ogg", duration = 7, group = "ready"}
+name_space.sound_dict["downyi3"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_downyi3.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["emmastrase"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_emmastrase.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["flexianger2"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_flexianger2.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["flexianger3"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_flexianger3.ogg", duration = 10, group = "ready"}
+name_space.sound_dict["gildentreffen"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_gildentreffen.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["hauslichegewalt2"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_hauslichegewalt2.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["kritik"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_kritik.ogg", duration = 8, group = "ready"}
+name_space.sound_dict["svenanger1"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_svenanger1.ogg", duration = 8, group = "ready"}
+name_space.sound_dict["warclean"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_warclean.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["zusammenschlagen1"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_zusammenschlagen1.ogg", duration = 3, group = "ready"}
+name_space.sound_dict["zusammenschlagen2"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_zusammenschlagen2.ogg", duration = 6, group = "ready"}
