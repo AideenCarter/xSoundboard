@@ -8,7 +8,7 @@ local current_start = 0
 local own_cooldown = 0
 local muted = false
 
-----------------------------UTIL----------------------------
+----------------------------UTIL  MUCKKI IST SÜß ----------------------------
 
 local debug = false
 local function dbg_print(msg)
