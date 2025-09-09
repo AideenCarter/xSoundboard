@@ -93,3 +93,8 @@ name_space.sound_dict["zoimuh2"] = {path = "Interface\\Addons\\xSoundboard\\soun
 name_space.sound_dict["gurkensalat"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_gurkensalat.ogg", duration = 7, group = "ready"}
 name_space.sound_dict["mentaltoni"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_mentaltoni.ogg", duration = 6, group = "ready"}
 name_space.sound_dict["reinfingern"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_reinfingern.ogg", duration = 2, group = "ready"}
+name_space.sound_dict["downyi4"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_downyi4.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["pferdeschwanzdildo"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_pferdeschwanzdildo.ogg", duration = 4, group = "ready"}
+name_space.sound_dict["timorbs1"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_timorbs1.ogg", duration = 11, group = "ready"}
+name_space.sound_dict["timorbs2"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_timorbs2.ogg", duration = 5, group = "ready"}
+name_space.sound_dict["timorbs3"] = {path = "Interface\\Addons\\xSoundboard\\sounds\\ready_timorbs3.ogg", duration = 12, group = "ready"}
